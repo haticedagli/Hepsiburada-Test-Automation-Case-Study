@@ -35,6 +35,10 @@ It is a test automation project created for the UI of hepsiburada.com site.
 
 ## ScreenShots
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="1415" alt="Ekran Resmi 2022-09-12 04 17 09" src="https://user-images.githubusercontent.com/62377943/189558323-7d5296de-795d-4efa-a578-b184775d07df.png">
+
+<img width="1512" alt="Ekran Resmi 2022-09-12 04 19 11" src="https://user-images.githubusercontent.com/62377943/189558436-7ff7225c-d334-45ee-b9cd-e1067a3cdb44.png">
+
+
 
   
